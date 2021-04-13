@@ -20,6 +20,6 @@ These are my notes on the classic operating systems book: **The Design of the UN
 
 
 
-I read this book in a course taught by **Dr. Vijay Gokhale**.
+I forked this from **suvratapte/Maurice-Bach-Notes**.
 
 If you feel that corrections are required, feel free to create a PR! :)
